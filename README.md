@@ -33,6 +33,7 @@
 * 🔜
 
 <br/>
+
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/qiuChengleiy">
@@ -108,6 +109,6 @@
 <!-- Credit -->
 
 #### 很喜欢的一句话
-当你渐渐迷失在人生道路上的时候，请记得: 千万不要因走的太久，而忘了为什么出发
+当你渐渐迷失在人生道路上的时候，请记得: 千万不要因走的太久，而忘了为什么出发~
 
 
