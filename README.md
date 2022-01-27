@@ -2,59 +2,49 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
+大家好，我是程序员皮卡丘，欢迎访问我的主页, 这里是我记录学习的地方 [传送门](https://github.com/qiuChengleiy/blog) 🌹 🌹 🌹 
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>我是一名技术爱好者</b> 所以我闲暇的时候 <b>都在捣鼓一些新技术</b> :blush:</em>
 
 <!-- Your badges -->
-[![Google Playstore](https://img.shields.io/badge/-Joy_Apps-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JoykishanSharma)
-[![Behance](https://img.shields.io/badge/-joykishan_sharma-191919?style=flat&labelColor=191919&logo=behance&logoColor=white)](https://www.behance.net/)
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=joykishan120@gmail.com)
-[![CodePen](https://img.shields.io/badge/-joykishan_sharma-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/joykishan_sharma/pens/public)
-[![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Joykishan)
-[![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joy_kishan_sharma)
 
-<!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=qiuChengleiy&style=flat)
-[![Github](https://img.shields.io/badge/-JoykishanSharma-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
 
 <!-- gif Image -->
 <img src="https://s3.bmp.ovh/imgs/2022/01/e5065c2d4d2fa600.gif" alt="side Image" align="right" width="460" height="auto" />
 
 <!-- current status -->
-### 💼  Things that I'm currently working on: 
+### 💼  目前工作:
 <!-- * Data Structures and Algorithms 💫
 * Kotlin -->
-* Flutter
-* Some Personal Projects 😍
+* Java全栈
+* Go后端
+* 一些个人项目 😍
 * 🔜
 
-### 🌱 Challenges that I’m currently challenging myself:
-Since the World is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
+### 🌱 学习心得
 
-* Learn to code:man_technologist: 5-6 hours a day with no distraction ( One or two day off a week. ) 
-* Read:newspaper: Dev and UI articles daily 
-* Workout:weight_lifting_man: 3 days in a row and take a day break 
-* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
-* Adapting the minimalism life style
+* 坚持每天写代码(不管写啥)
+* 坚持阅读(我经常会看一些比较好的公众号的推文，然后动手去实践)
+* 多动手，多搜索，多思考（有时候问别人，不如自己动手去寻找答案，这个过程会让你学习到更多的知识）
+* 端正观念，误听他言（不管社会多卷多，多现实，年龄多大，如果你还热爱这一行，那就大胆去做）
+* 敢于尝试，没有敲不会的代码，只有偷懒的人
 * 🔜
 
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<br/>
+### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/JoykishanSharma">
-    <img width="460" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
+  <a href="https://gitstats.me/qiuChengleiy">
+    <img width="460" height="auto" align="right" alt="qiuChengleiy's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=qiuChengleiy&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
   </a>
+
  <!-- icons -->
  <!-- Android Development -->
- <code><a href = "https://kotlinlang.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin"></a></code>
+
 <code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
- <code><img height="40" src="https://image.flaticon.com/icons/svg/2306/2306209.svg" alt="XML"></code>
- <code><a href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"></a></code>
+
 <code><a href = "https://developer.android.com/studio"><img height="40" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio"></a></code>
 <br>
  <!-- Web Development -->
@@ -68,7 +58,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
  <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code"></a></code>
 <code><a href = "https://www.jetbrains.com/idea/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/96px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA"></a></code>
  <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
-<code><a href = "http://brackets.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1024px-Brackets_Icon.svg.png" alt="Brackets"></a></code>
+
 <br>
 <!-- Database -->
 <code><a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Google Firbase"></a></code>
@@ -76,20 +66,48 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "https://www.sqlite.org/index.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="SQLite"></a></code>
 <br>
 <!-- Scripting -->
-<code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></a></code>
+
  <code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="Bash"></a></code>
  <code><a href = "https://en.wikipedia.org/wiki/Shell_script"><img height="40" src="https://static.thenounproject.com/png/3820391-200.png" alt="Shell Script"></a></code>
  <!-- Terminal -->
 <code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></a></code>
 <br>
 <!-- User Interface Desinging -->
-<code><a href = "https://inkscape.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1024px-Inkscape_Logo.svg.png" alt="Inkscape"></a></code>
-<code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png" alt="Adobe Illustrator"></a></code>
-<code><a href = "adobe.com/in/products/xd.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/768px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD"></a></code>
+
 </p>
 
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
+
+  
+### 推荐几个不错的优质公众号
+
+#### 前端
+* [前端真好玩](./)
+* [code秘密花园](./)
+* [高级前端进阶](./)
+* [前端宇宙](./)
+* [前端技术优选](./)
+* [程序员成长指北](./)
+* [前端工匠](./)
+* [前端桃园](./)
+* [若川视野](./)
+
+#### Go
+* [脑子进煎鱼了](./)
+* [go-zero](./)
+
+#### java
+* [macrozheng](./)
+
+#### linux
+* [良许linux](./)
+
+
+
 <!-- Credit -->
-### Credit to 
-- [**GIPHY**](https://giphy.com/) and [Galshir](https://galshir.com/) for GIFs
+
+#### 很喜欢的一句话
+当你渐渐迷失在人生道路上的时候，请记得: 千万不要因走的太久，而忘了为什么出发
+
+
