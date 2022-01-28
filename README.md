@@ -2,7 +2,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-大家好，我是程序员皮卡丘，欢迎访问我的主页, 这里是我记录学习的地方 [传送门](https://github.com/qiuChengleiy/blog) 🌹 🌹 🌹 
+大家好，我是程序员皮卡秋，欢迎访问我的主页, 这里是我记录学习的地方 [传送门](https://github.com/qiuChengleiy/blog) 🌹 🌹 🌹 
 <br>
 
 
@@ -103,5 +103,7 @@
 
 #### 很喜欢的一句话
 当你渐渐迷失在人生道路上的时候，请记得: 千万不要因走的太久，而忘了为什么出发~
+
+![](http://101.200.73.72/img/wx.jpg)
 
 
