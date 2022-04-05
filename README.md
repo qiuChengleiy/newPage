@@ -19,7 +19,7 @@
 <!-- * Data Structures and Algorithms 💫
 * Kotlin -->
 * Java全栈
-* Go后端
+* Go开发
 * 一些个人项目 😍
 * 🔜
 
